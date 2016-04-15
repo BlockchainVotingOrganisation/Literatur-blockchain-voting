@@ -39,4 +39,11 @@ BCT (as needed) | N/A
 
 Material | Link
 -----------------|-------
-SDD 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3
+Cla09 | N/A
+BC Lectures 5,7,8,12 | N/A
+Research into BitCongress | N/A
+Research into V-Initiative | N/A
+Research into Bitcoin Foundation's blockchain voting | N/A
+"Other blockchain-voting soltutions | N/A
+_How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A
+
