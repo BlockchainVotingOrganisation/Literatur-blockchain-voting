@@ -1,3 +1,5 @@
+TODO: add subreadings too! (as in, readings within readings)
+
 Reading List:
 ============
 
