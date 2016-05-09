@@ -25,7 +25,7 @@ Material | Link
 -----------------|-------
 SDD Ch. 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3
 BC Lectures 1-4 | N/A
-Cla09 Ch. 1 |  N/A
+Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37
 BCT (as needed) | N/A
 
 ##Module 2
@@ -34,7 +34,7 @@ Material | Link
 -----------------|-------
 SDD 4-5 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3
 BC Lectures 6, 9-11 | N/A
-Cla09 Ch. 2-3 |  N/A
+Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37
 BCT (as needed) | N/A
 
 ##Module 3
