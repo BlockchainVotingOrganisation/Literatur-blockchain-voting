@@ -41,7 +41,7 @@ BCT (as needed) | N/A
 
 Material | Link
 -----------------|-------
-Cla09 | N/A
+Cla09 | https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37
 BC Lectures 5,7,8,12 | N/A
 Research into BitCongress | N/A
 Research into V-Initiative | N/A
