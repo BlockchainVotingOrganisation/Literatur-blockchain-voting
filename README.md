@@ -21,31 +21,31 @@ Schedule + notes:
 
 ##Module 1
 
-Material | Link
------------------|-------
-SDD Ch. 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3
-BC Lectures 1-4 | N/A
-Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37
-BCT (as needed) | N/A
+Material | Link | Done?
+-----------------|-------|-------
+SDD Ch. 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
+BC Lectures 1-4 | N/A | No
+Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
+BCT (as needed) | N/A | No
 
 ##Module 2
 
-Material | Link
------------------|-------
-SDD 4-5 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3
-BC Lectures 6, 9-11 | N/A
-Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37
-BCT (as needed) | N/A
+Material | Link | Done?
+-----------------|-------|-------
+SDD 4-5 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
+BC Lectures 6, 9-11 | N/A | No
+Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
+BCT (as needed) | N/A | No
 
 ##Module 3
 
-Material | Link
------------------|-------
-Cla09 | https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37
-BC Lectures 5,7,8,12 | N/A
-Research into BitCongress | N/A
-Research into V-Initiative | N/A
-Research into Bitcoin Foundation's blockchain voting | N/A
-"Other blockchain-voting soltutions | N/A
-_How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A
+Material | Link | Done?
+-----------------|-------|-------
+Cla09 | https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
+BC Lectures 5,7,8,12 | N/A | No
+Research into BitCongress | N/A | No
+Research into V-Initiative | N/A | No
+Research into Bitcoin Foundation's blockchain voting | N/A | No
+"Other blockchain-voting soltutions | N/A | No
+_How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
 
