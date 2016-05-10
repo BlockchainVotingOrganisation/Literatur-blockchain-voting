@@ -29,6 +29,7 @@ BC Lectures 1-4 | N/A | No
 Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
 BCT (as needed) | N/A | No
 GD | N/A | No
+Scantegrity Talk | N/A | No
 
 ##Module 2
 
