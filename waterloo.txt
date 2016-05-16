@@ -1,7 +1,10 @@
 Reading Course: On the potential for blockchain-based solutions to voting 
 Urs Hengartner (Waterloo) & Jeremy Clark (Concordia)
 
-This course will examine the intersection of voting systems with blockchain technologies, an area of current interest in the research community as well as industry. It will establish a strong background in cryptographic approaches to both voting and currency systems, while looking at Bitcoin, the blockchain, and E2E systems like Scantegrity. 
+This course will examine the intersection of voting systems with blockchain technologies, an area of current
+interest in the research community as well as industry. It will establish a strong background in 
+cryptographic approaches to both voting and currency systems, while looking at Bitcoin, the blockchain,
+and E2E systems like Scantegrity. 
 
 = = = Course Materials
 
@@ -11,8 +14,9 @@ https://www.coursera.org/learn/digital-democracy/home/week/1
 [Cla09] Democracy Enhancing Technologies - Jeremy Clark (Waterloo), Dissertation, 2009
 http://users.encs.concordia.ca/~clark/theses/phd_electronic.pdf
 
-[BC] Bitcoin and Cryptocurrencies - Arvind Narayanan, Joseph Bonneau, Ed Felten (Princeton University), Andrew Miller (UMC), Jeremy Clark (Concordia)
-https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ
+[BC] Bitcoin and Cryptocurrencies - Arvind Narayanan, Joseph Bonneau, Ed Felten (Princeton University),
+	Andrew Miller (UMC), Jeremy Clark (Concordia)
+	https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ
 
 [BCT] Bitcoin and Cryptocurrency Technologies - Narayanan et al, Textbook, 2016
 https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1
@@ -47,14 +51,18 @@ Month 3:
 		* Other blockchain-voting solutions
 	* “How to Vote Privately Using Bitcoin” by Zhao and Chan
 
-Assignments: Develop a comparative framework for evaluating blockchain-based voting solutions (to be used in final project) 
+Assignments: Develop a comparative framework for evaluating blockchain-based voting solutions 
+(to be used in final project) 
 
 Month 4:
 	* Complete final project
 
 = = = Evaluation
 
-Milestones: progress report (10% x3): at the end of Month 1, Month 2, and Month 3, the student will write a two-page summary of her progress in understanding the subjects, and attach any assignment solutions to the report. 
+Milestones: progress report (10% x3): at the end of Month 1, Month 2, and Month 3, the student 
+will write a two-page summary of her progress in understanding the subjects, and attach any 
+assignment solutions to the report. 
 
-Final Project (70%): due last day of classes. Will consist of a term paper (~12 pages) surveying the field, evaluating existing solutions, and proposing new future directions.
+Final Project (70%): due last day of classes. Will consist of a term paper (~12 pages) surveying
+the field, evaluating existing solutions, and proposing new future directions.
 
