@@ -25,7 +25,7 @@ Schedule + notes:
 Material | Link | Done?
 -----------------|-------|-------
 SDD Ch. 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
-BC Lectures 1-4 | N/A | No
+BC Lectures 1-4 | https://www.sharelatex.com/project/56b3ff223933941474673238 | Yes
 Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
 BCT (as needed) | N/A | No
 GD | N/A | No
