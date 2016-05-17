@@ -17,6 +17,9 @@ https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_boo
 
 [GD] Making Better Group Decisions: Voting, Judgement Aggregation and Fair Division https://class.coursera.org/votingfairdiv-002
 
+[JCJ] Coercion-Resistant Electronic Elections - Ari Juels, Dario Catalano, Markus Jakobsson
+https://eprint.iacr.org/2002/165.pdf
+
 Schedule + notes:
 =================
 
@@ -40,6 +43,7 @@ BC Lectures 6, 9-11 | N/A | No
 Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
 BCT (as needed) | N/A | No
 GD | N/A | No
+JCJ | N/A | No
 
 ##Module 3
 
