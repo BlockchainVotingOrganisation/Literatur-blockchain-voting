@@ -10,3 +10,4 @@ Monday May 17, 2016
 7. Provisions paper: something about the details ... and on it essentially being a voting scheme.
 8. Exchange services: on proving you control it using ZKPs ... proving you hold enough ... "proof of solvency" instead of adding up votes.
 9. Pivotal?
+10. On Elgamal's homomorphic properties and voting ... solving a discrete log ... B <=> DLOG.
