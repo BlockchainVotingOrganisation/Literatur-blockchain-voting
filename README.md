@@ -20,6 +20,8 @@ https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_boo
 [JCJ] Coercion-Resistant Electronic Elections - Ari Juels, Dario Catalano, Markus Jakobsson
 https://eprint.iacr.org/2002/165.pdf (and here is the extended abstract version: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.8089&rep=rep1&type=pdf)
 
+[Mix] Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms - Chaum: http://www.csl.mtu.edu/cs6461/www/Reading/08/Chaum-ACMCOMM81.pdf
+
 Schedule + notes:
 =================
 
@@ -44,6 +46,7 @@ Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | N
 BCT (as needed) | N/A | No
 GD | N/A | No
 JCJ | N/A | No
+Mix | N/A | No
 
 ##Module 3
 
