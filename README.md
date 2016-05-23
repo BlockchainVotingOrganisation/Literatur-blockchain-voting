@@ -45,8 +45,8 @@ BC Lectures 6, 9-11 | N/A | No
 Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
 BCT (as needed) | N/A | No
 GD | N/A | No
-JCJ | N/A | No
-Mix | N/A | No
+JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
+Mix | http://ynasser.github.io/crypto/mix.html | No
 
 ##Module 3
 
