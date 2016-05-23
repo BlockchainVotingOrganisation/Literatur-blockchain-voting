@@ -57,6 +57,6 @@ BC Lectures 5,7,8,12 | N/A | No
 Research into BitCongress | N/A | No
 Research into V-Initiative | N/A | No
 Research into Bitcoin Foundation's blockchain voting | N/A | No
-"Other blockchain-voting soltutions | N/A | No
+Other blockchain-voting soltutions | N/A | No
 _How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
 GD | N/A | No
