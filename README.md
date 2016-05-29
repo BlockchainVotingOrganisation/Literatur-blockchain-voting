@@ -52,7 +52,7 @@ Mix | http://ynasser.github.io/crypto/mix.html | No
 
 Material | Link | Done?
 -----------------|-------|-------
-Cla09 | https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
+Cla09 Ch. 9 | https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
 BC Lectures 5,7,8,12 | N/A | No
 Research into BitCongress | N/A | No
 Research into V-Initiative | N/A | No
