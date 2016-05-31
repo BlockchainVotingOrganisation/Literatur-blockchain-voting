@@ -27,6 +27,9 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 
 [L17] http://courses.csail.mit.edu/6.897/spring04/L17.pdf
 
+[RR] um ... everything on here: http://people.csail.mit.edu/rivest/voting/index.html
+... maybe I'm getting ahead of myself
+
 Schedule + notes:
 =================
 
