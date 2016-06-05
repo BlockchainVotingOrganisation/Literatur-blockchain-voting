@@ -30,6 +30,8 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 [RR] um ... everything on here: http://people.csail.mit.edu/rivest/voting/index.html
 ... maybe I'm getting ahead of myself
 
+[TPM] https://courses.csail.mit.edu/6.857/2016/files/16.pdf
+
 Schedule + notes:
 =================
 
@@ -43,6 +45,7 @@ Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
 BCT (as needed) | N/A | No
 GD | N/A | No
 Scantegrity Talk | N/A | No
+TPM | N/A | No
 
 ##Module 2
 
@@ -57,6 +60,7 @@ JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
 Mix | http://ynasser.github.io/crypto/mix.html | No
 L17 | N/A | No
 L18 | N/A | No
+
 
 
 ##Module 3
