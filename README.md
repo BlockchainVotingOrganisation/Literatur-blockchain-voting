@@ -22,6 +22,14 @@ https://eprint.iacr.org/2002/165.pdf (and here is the extended abstract version:
 
 [Mix] Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms - Chaum: http://www.csl.mtu.edu/cs6461/www/Reading/08/Chaum-ACMCOMM81.pdf
 
+[L18] MIT 6.897 Lecture 18: Mix-net Voting Systems (to learn about re-encryption mix nets):
+http://courses.csail.mit.edu/6.897/spring04/L18.pdf
+
+[L17] http://courses.csail.mit.edu/6.897/spring04/L17.pdf
+
+[RR] um ... everything on here: http://people.csail.mit.edu/rivest/voting/index.html
+... maybe I'm getting ahead of myself
+
 Schedule + notes:
 =================
 
@@ -47,6 +55,9 @@ BCT (as needed) | N/A | No
 GD | N/A | No
 JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
 Mix | http://ynasser.github.io/crypto/mix.html | No
+L17 | N/A | No
+L18 | N/A | No
+
 
 ##Module 3
 
