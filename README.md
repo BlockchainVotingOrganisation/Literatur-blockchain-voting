@@ -45,7 +45,8 @@ Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
 BCT (as needed) | N/A | No
 GD | N/A | No
 Scantegrity Talk | N/A | No
-TPM | N/A | No
+
+
 
 ##Module 2
 
@@ -60,7 +61,7 @@ JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
 Mix | http://ynasser.github.io/crypto/mix.html | No
 L17 | N/A | No
 L18 | N/A | No
-
+TPM | N/A | No
 
 
 ##Module 3
