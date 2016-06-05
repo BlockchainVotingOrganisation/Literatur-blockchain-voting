@@ -32,7 +32,7 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 
 [TPM] https://courses.csail.mit.edu/6.857/2016/files/16.pdf
 
-[CIV]
+[CIV] http://www.cs.cornell.edu/projects/civitas/papers/clarkson_threshcivitas.pdf
 
 Schedule + notes:
 =================
