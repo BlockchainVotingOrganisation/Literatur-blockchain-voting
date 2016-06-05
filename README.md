@@ -32,6 +32,8 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 
 [TPM] https://courses.csail.mit.edu/6.857/2016/files/16.pdf
 
+[CIV]
+
 Schedule + notes:
 =================
 
@@ -55,14 +57,13 @@ Material | Link | Done?
 SDD 4-5 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
 BC Lectures 6, 9-11 | N/A | No
 Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
-BCT (as needed) | N/A | No
 GD | N/A | No
 JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
 Mix | http://ynasser.github.io/crypto/mix.html | No
 L17 | N/A | No
 L18 | N/A | No
 TPM | N/A | No
-
+CIV | N/A | No
 
 ##Module 3
 
