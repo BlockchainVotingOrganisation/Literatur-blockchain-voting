@@ -34,6 +34,8 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 
 [CIV] http://www.cs.cornell.edu/projects/civitas/papers/clarkson_threshcivitas.pdf
 
+[Access] http://www.elections.ca/content.aspx?section=vot&dir=spe&document=index&lang=e
+
 Schedule + notes:
 =================
 
