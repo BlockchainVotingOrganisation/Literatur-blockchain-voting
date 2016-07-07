@@ -90,4 +90,6 @@ Description | Link
 Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html
 Explanation of reencryption mixnets |  N/A
 Coloured coins | N/A
+SPV | N/A
+CoinJoin | N/A
 
