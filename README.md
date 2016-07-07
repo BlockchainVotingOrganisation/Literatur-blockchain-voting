@@ -79,3 +79,15 @@ Research into Bitcoin Foundation's blockchain voting | N/A | No
 Other blockchain-voting soltutions | N/A | No
 _How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
 GD | N/A | No
+
+
+--------------
+
+## Proof of Work (a.k.a Assignments)
+
+Description | Link
+------------|------
+Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html
+     | 
+     |
+
