@@ -11,7 +11,17 @@ convert an encryption of the corresponding acknowledgement code for that voter a
 submitted code."
 5. What is the defintion _cryptographic primitive_? I kind of know, but I probably couldn't definite it on the spot.
 6. How exactly does one received vote codes as _CAPTCHAs_, out-of-band? See citation [ABHL03] (page 155)
-7. 
-
+7. Regarding permutations: "it can reliably change the order and so this must be guarded against and so this must me guarded against." <---- why would any reorder the candidates? Just to cause chaos? Or maybe there's something I don't understand.
+8. How does ballot secrecy work in this case? --> "Helios does allow the voter (or anyone) to have their browser construct multiple encryptions of her ballot which she can challenge to be opened and audited [Adi08]."
+9. Page 156, in the informal defintion of coercion resistance ... what is a dummy strategy and why is it being used in **both** the heads and tails scenarios?
+10. What is an ideal system?
+11. Why do we need two sets of coin flips?
+12. Why would we give the coercer a probability distribution? Even if we did, how could he "experience non-negligible success in determining if the voter is cooperating or not"?
+13. 
 
 **Chapters 2-3 of Clark's Thesis**
+
+
+**Miscellaneous**
+1. What is this citation style called?
+2.
