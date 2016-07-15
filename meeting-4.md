@@ -18,10 +18,14 @@ submitted code."
 11. Why do we need two sets of coin flips?
 12. Why would we give the coercer a probability distribution? Even if we did, how could he "experience non-negligible success in determining if the voter is cooperating or not"?
 13. "(1) if the flip is tails, the voter can always accomplish ... " <--- which coin flip?
+14. What is a "designated verifier proof" ... or rather, I'd like to see an example of one.
+15. Verifiable mix net? Ah! I still need to understand reencryption mix nets.
+16. 
 
 **Chapters 2-3 of Clark's Thesis**
 
 
 **Miscellaneous**
 1. What is this citation style called?
-2.
+2. Fastest way to detect duplicates?
+3. On channels as "bottlenecks" ...
