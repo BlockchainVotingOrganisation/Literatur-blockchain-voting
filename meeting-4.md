@@ -26,6 +26,7 @@ submitted code."
 
 
 **Miscellaneous**
+
 1. What is this citation style called?
 2. Fastest way to detect duplicates?
 3. On channels as "bottlenecks" ...
