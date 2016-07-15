@@ -17,7 +17,7 @@ submitted code."
 10. What is an ideal system?
 11. Why do we need two sets of coin flips?
 12. Why would we give the coercer a probability distribution? Even if we did, how could he "experience non-negligible success in determining if the voter is cooperating or not"?
-13. 
+13. "(1) if the flip is tails, the voter can always accomplish ... " <--- which coin flip?
 
 **Chapters 2-3 of Clark's Thesis**
 
