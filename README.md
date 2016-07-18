@@ -92,4 +92,6 @@ Explanation of reencryption mixnets |  N/A
 Coloured coins | N/A
 SPV | N/A
 CoinJoin | N/A
+Definition of coercion resistance | N/A
+JCJ | N/A
 
