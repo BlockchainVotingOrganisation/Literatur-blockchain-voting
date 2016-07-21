@@ -36,6 +36,8 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 
 [Access] http://www.elections.ca/content.aspx?section=vot&dir=spe&document=index&lang=e
 
+[Games] "Sequence of Games: A Tool for Taming Complexity in Security Proofs" by Victor Shoup http://www.shoup.net/papers/games.pdf
+
 Schedule + notes:
 =================
 
