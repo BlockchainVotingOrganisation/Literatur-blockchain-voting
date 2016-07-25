@@ -78,7 +78,7 @@ BC Lectures 5,7,8,12 | N/A | No
 Research into BitCongress | See Google Drive | Yes
 Research into V-Initiative | See Google Drive | Yes
 Research into Bitcoin Foundation's blockchain voting | See Google Drive | Yes
-Other blockchain-voting soltutions | N/A | Sort of ...
+Other blockchain-voting soltutions | See Google Drive | Sort of ...
 _How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
 GD | N/A | No
 
