@@ -64,7 +64,6 @@ JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
 Mix | http://ynasser.github.io/crypto/mix.html | No
 L17 | N/A | No
 L18 | N/A | No
-TPM | N/A | No
 CIV | N/A | No
 
 ##Module 3
