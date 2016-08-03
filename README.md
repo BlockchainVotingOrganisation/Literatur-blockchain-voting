@@ -49,7 +49,6 @@ SDD Ch. 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
 BC Lectures 1-4 | https://www.sharelatex.com/project/56b3ff223933941474673238 | Yes
 Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
 BCT (as needed) | N/A | No
-GD | N/A | No
 Scantegrity Talk | N/A | No
 
 
@@ -61,7 +60,6 @@ Material | Link | Done?
 SDD 4-5 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
 BC Lectures 6, 9-11 | https://www.sharelatex.com/project/56b3ff223933941474673238 | Yes
 Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
-GD | N/A | No
 JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
 Mix | http://ynasser.github.io/crypto/mix.html | No
 L17 | N/A | No
@@ -80,7 +78,6 @@ Research into V-Initiative | See Google Drive | Yes
 Research into Bitcoin Foundation's blockchain voting | See Google Drive | Yes
 Other blockchain-voting soltutions | See Google Drive | Yes
 _How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
-GD | N/A | No
 
 
 --------------
