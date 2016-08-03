@@ -83,13 +83,13 @@ _How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
 
 ## Proof of Work (a.k.a Assignments)
 
-Description | Link
-------------|------
-Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html
-Explanation of reencryption mixnets |  N/A
-Coloured coins | N/A
-SPV | N/A
-CoinJoin | N/A
-Definition of coercion resistance | N/A
-JCJ | N/A
+Description | Link | Done?
+------------|------|------------
+Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html | Almost ...
+Explanation of reencryption mixnets |  N/A | No
+Coloured coins | N/A | No
+SPV | N/A | No
+CoinJoin | N/A | No
+Definition of coercion resistance | N/A | No
+JCJ | N/A | No
 
