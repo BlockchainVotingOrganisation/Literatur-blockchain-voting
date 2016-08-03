@@ -90,6 +90,6 @@ Explanation of reencryption mixnets |  N/A | No
 Coloured coins | N/A | No
 SPV | N/A | No
 CoinJoin | N/A | No
-Definition of coercion resistance | N/A | No
+Definition of coercion resistance | N/A | Yes, but not to be marked, so no link!
 JCJ | N/A | No
 
