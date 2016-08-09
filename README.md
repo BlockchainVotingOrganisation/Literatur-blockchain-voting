@@ -88,4 +88,5 @@ SPV | N/A | No
 CoinJoin | N/A | No
 Definition of coercion resistance | N/A | Yes, but not to be marked, so no link!
 JCJ | http://ynasser.github.io/crypto/jcj.html | No
+counter | N/A | No
 
