@@ -1,3 +1,8 @@
+This is all for a class I took in my undergrad. If you're not my professor, you're probably not going to be interested in this.
+
+----------------------------
+
+
 TODO: add subreadings too! (as in, readings within readings)
 
 Reading List:
