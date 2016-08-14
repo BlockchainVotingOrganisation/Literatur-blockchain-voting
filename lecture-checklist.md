@@ -6,7 +6,7 @@ Lecture | Watched
 4 | Y
 5 | Y
 6 | Y
-7 | ???
+7 | Y*
 8 | Y
 9 | Y
 10| Y
