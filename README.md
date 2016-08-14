@@ -87,7 +87,7 @@ _How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
 Description | Link | Done?
 ------------|------|------------
 Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html | Almost ...
-Explanation of reencryption mixnets |  N/A | No
+Explanation of re-encryption mixnets |  N/A | No
 Coloured coins | N/A | No
 SPV | N/A | No
 CoinJoin | N/A | No
