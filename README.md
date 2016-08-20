@@ -89,7 +89,7 @@ Description | Link | Done?
 Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html | Almost ...
 Explanation of re-encryption mixnets |  N/A | No
 Coloured coins | N/A | No
-SPV | N/A | No
+SPV | http://ynasser.github.io/crypto/spv.html | Yes, mostly.
 CoinJoin | N/A | No
 Definition of coercion resistance | N/A | Yes, but not to be marked, so no link!
 JCJ | http://ynasser.github.io/crypto/jcj.html | No
