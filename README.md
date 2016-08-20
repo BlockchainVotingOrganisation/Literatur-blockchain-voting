@@ -91,7 +91,7 @@ Explanation of re-encryption mixnets |  N/A | No
 Coloured coins | N/A | No
 SPV | http://ynasser.github.io/crypto/spv.html | Yes, mostly.
 CoinJoin | N/A | No
-Definition of coercion resistance | N/A | Yes, but not to be marked, so no link!
+Definition of coercion resistance | http://ynasser.github.io/crypto/coercion_resistance_informally.html | Yes
 JCJ | http://ynasser.github.io/crypto/jcj.html | No
 counter | N/A | No
 
