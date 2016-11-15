@@ -1,10 +1,3 @@
-This is all for a class I took in my undergrad. If you're not my professor, you're probably not going to be interested in this.
-
-----------------------------
-
-
-TODO: add subreadings too! (as in, readings within readings)
-
 Reading List:
 ============
 
@@ -42,56 +35,4 @@ http://courses.csail.mit.edu/6.897/spring04/L18.pdf
 [Access] http://www.elections.ca/content.aspx?section=vot&dir=spe&document=index&lang=e
 
 [Games] "Sequence of Games: A Tool for Taming Complexity in Security Proofs" by Victor Shoup http://www.shoup.net/papers/games.pdf
-
-Schedule + notes:
-=================
-
-##Module 1
-
-Material | Link | Done?
------------------|-------|-------
-SDD Ch. 1-3 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
-BC Lectures 1-4 | https://www.sharelatex.com/project/56b3ff223933941474673238 | Yes
-Cla09 Ch. 1 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | Yes
-
-
-##Module 2
-
-Material | Link | Done?
------------------|-------|-------
-SDD 4-5 | https://www.sharelatex.com/project/57115a6fa6a350103211b2c3 | Yes
-BC Lectures 6, 9-11 | https://www.sharelatex.com/project/56b3ff223933941474673238 | Yes
-Cla09 Ch. 2-3 |  https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
-JCJ | https://www.sharelatex.com/project/574233bf6ce6c1f41a1c0069 | No
-L17 | N/A | No
-L18 | N/A | No
-CIV | N/A | No
-
-##Module 3
-
-Material | Link | Done?
------------------|-------|-------
-Cla09 Ch. 9 | https://www.sharelatex.com/project/5730ceb78e2046ac67c92c37 | No
-BC Lectures 5,7,8,12 | https://www.sharelatex.com/project/56b3ff223933941474673238 | Yes
-Research into BitCongress | See Google Drive | Yes
-Research into V-Initiative | See Google Drive | Yes
-Research into Bitcoin Foundation's blockchain voting | See Google Drive | Yes
-Other blockchain-voting soltutions | See Google Drive | Yes
-_How to Vote Privately Using Bitcoin_ by Zhao and Chan | N/A | No
-
-
---------------
-
-## Proof of Work (a.k.a Assignments)
-
-Description | Link | Done?
-------------|------|------------
-Summary of Chaum's 1981 paper on mixnets | https://ynasser.github.io/crypto/mix.html | Almost ...
-Explanation of re-encryption mixnets |  N/A | No
-Coloured coins | N/A | No
-SPV | http://ynasser.github.io/crypto/spv.html | Yes, mostly.
-CoinJoin | N/A | No
-Definition of coercion resistance | http://ynasser.github.io/crypto/coercion_resistance_informally.html | Yes
-JCJ | http://ynasser.github.io/crypto/jcj.html | No
-counter | N/A | No
 
