@@ -12,4 +12,4 @@ see whitepaper.
 
 01.12.2016 - 31.10.2017
 
-Send your proposals to 
+Send your proposals to com@goettertz.de.
