@@ -7,3 +7,5 @@ An Online-Voting System based on Blockchain- und Crypttec suitable for political
 ## Topic Description
 
 see whitepaper.
+
+Send your proposals to 
